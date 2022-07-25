@@ -151,34 +151,34 @@
 //     default: console.log("Numero Incorrecto");
 // }
 
-// CONDICIONALES DE DIFERENTES TIPOS EN UN IF
+CONDICIONALES DE DIFERENTES TIPOS EN UN IF
 
-// let num = null;
+let num = null;
 
-// function verificarPositivo(cualquierNumero) {
-//   if (cualquierNumero >= 0) {
-//     return "es positivo";
-//   }
-// }
+function verificarPositivo(cualquierNumero) {
+  if (cualquierNumero >= 0) {
+    return "es positivo";
+  }
+}
 
-// if ("") {
-//   console.log("1. soy un string vacio");
-// } else {
-//   console.log("1.1. soy un string vacio");
-// }
+if ("") {
+  console.log("1. soy un string vacio");
+} else {
+  console.log("1.1. soy un string vacio");
+}
 
-// if (!num) {
-//   console.log("2. soy un string");
-// }
-// if (50 - 60) {
-//   console.log("3. soy un negativo");
-// }
-// if (50 + 60) {
-//   console.log("4. soy un positivo");
-// }
-// if (-60) {
-//   console.log("5. soy un cero");
-// }
-// if (verificarPositivo(num)) {
-//   console.log("6. soy un positivo");
-// }
+if (!num) {
+  console.log("2. soy un string");
+}
+if (50 - 60) {
+  console.log("3. soy un negativo");
+}
+if (50 + 60) {
+  console.log("4. soy un positivo");
+}
+if (-60) {
+  console.log("5. soy un cero");
+}
+if (verificarPositivo(num)) {
+  console.log("6. soy un positivo");
+}
