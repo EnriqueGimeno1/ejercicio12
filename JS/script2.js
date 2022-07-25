@@ -184,3 +184,5 @@ if (verificarPositivo(num)) {
 }
 
 console.log("Otra gimenada");
+
+console.log("Mensaje de ernecio");
