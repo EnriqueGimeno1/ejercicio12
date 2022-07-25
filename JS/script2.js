@@ -182,10 +182,3 @@ if (-60) {
 if (verificarPositivo(num)) {
 	console.log("6. soy un positivo");
 }
-
-
-console.log("Otra gimenada");
-
-console.log("MENSAJE DE GIMENO");
-
-console.log("Mensaje de ernecio");
