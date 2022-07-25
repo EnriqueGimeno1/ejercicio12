@@ -151,7 +151,7 @@
 //     default: console.log("Numero Incorrecto");
 // }
 
-CONDICIONALES DE DIFERENTES TIPOS EN UN IF
+// CONDICIONALES DE DIFERENTES TIPOS EN UN IF
 
 let num = null;
 
