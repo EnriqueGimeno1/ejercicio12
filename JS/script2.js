@@ -156,29 +156,31 @@
 let num = null;
 
 function verificarPositivo(cualquierNumero) {
-  if (cualquierNumero >= 0) {
-    return "es positivo";
-  }
+	if (cualquierNumero >= 0) {
+		return "es positivo";
+	}
 }
 
 if ("") {
-  console.log("1. soy un string vacio");
+	console.log("1. soy un string vacio");
 } else {
-  console.log("1.1. soy un string vacio");
+	console.log("1.1. soy un string vacio");
 }
 
 if (!num) {
-  console.log("2. soy un string");
+	console.log("2. soy un string");
 }
 if (50 - 60) {
-  console.log("3. soy un negativo");
+	console.log("3. soy un negativo");
 }
 if (50 + 60) {
-  console.log("4. soy un positivo");
+	console.log("4. soy un positivo");
 }
 if (-60) {
-  console.log("5. soy un cero");
+	console.log("5. soy un cero");
 }
 if (verificarPositivo(num)) {
-  console.log("6. soy un positivo");
+	console.log("6. soy un positivo");
 }
+
+console.log("Otra gimenada");
